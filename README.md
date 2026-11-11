@@ -1,0 +1,2 @@
+昔Cloudflare WarpのLinuxにおいてGUIのスイッチがなかったので作りましたが,現在はWarp本体に搭載されたので必要無くなりました.
+機能はVPNの切り替えON/OFFのみです.また状態はFlag On,OFFのみなのでWarp本体から読み込んでいるわけではありません.
